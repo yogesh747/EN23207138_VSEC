@@ -37,4 +37,4 @@ A Simple Website Created Using Html(Hyper Text Markup Language)
 
 ## Link
 
-[Website]([https://github.com](https://yogesh747.github.io/EN23207138_VSEC/))
+[Website](https://yogesh747.github.io/EN23207138_VSEC/)
